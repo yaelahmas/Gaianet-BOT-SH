@@ -1,0 +1,67 @@
+What is your name?
+How are you today?
+What is the capital of France?
+Who wrote Harry Potter?
+What is 2 + 2?
+Can you tell me a joke?
+What is the largest animal on Earth?
+How many continents are there?
+What is the tallest mountain in the world?
+What is the fastest land animal?
+What is the capital of Japan?
+Who is the president of the United States?
+What is the color of the sky?
+What is water made of?
+How many planets are in the Solar System?
+What is the main ingredient in pizza dough?
+Who painted the Mona Lisa?
+What is the national animal of China?
+How many legs does a spider have?
+What is the smallest country in the world?
+What is the chemical formula for water?
+What is the speed of light?
+What language do people speak in Brazil?
+What is the hottest planet in the Solar System?
+Who discovered gravity?
+What is the capital of Germany?
+What is the largest ocean on Earth?
+How many sides does a triangle have?
+What is the main ingredient in chocolate?
+What do bees produce?
+What is the capital of Canada?
+How many bones are in the human body?
+What is the currency of the United Kingdom?
+Who invented the telephone?
+What is the largest desert in the world?
+What is the strongest muscle in the human body?
+How many teeth does an adult human have?
+What is the national flower of Japan?
+Who is the author of "The Great Gatsby"?
+What is the largest planet in the Solar System?
+How many hours are in a day?
+What is the symbol for gold in the periodic table?
+Who was the first person to walk on the moon?
+What is the opposite of hot?
+How many months are in a year?
+What do plants need for photosynthesis?
+Who painted the Starry Night?
+What is the main gas in the air we breathe?
+What is the capital of Italy?
+What is the name of the fairy tale character who leaves a glass slipper?
+What is the difference between connotation and denotation?
+If "All birds can fly" is an incorrect premise, how can it be corrected?
+How would you explain the concept of the grandfather paradox in time travel?
+What is the difference between induction and deduction in logical reasoning?
+Explain why "Every human was once a baby" is a universally true proposition.
+What is the difference between synchronous and asynchronous programming?
+How can multithreading be used in Python to improve program performance?
+Write a simple Python code to implement the bubble sort algorithm.
+Explain the concept of the transformer model in NLP and how models like GPT or Yi-1.5 utilize it.
+How can proxy usage be optimized in HTTP requests using aiohttp in Python?
+If x^2 - 4x + 4 = 0, what is the value of x?
+A farmer has a total of 50 chickens and cows. If the total number of legs is 140, how many cows does he have?
+What is the result of 2^10 without using a calculator?
+If a product gets a 30% discount and then a 15% tax is applied, is the final price lower or higher than the original price?
+A runner completes 400 meters in 50 seconds. What is the average speed in m/s?
+If someone asks, "Can you help me?" how can you respond politely?
+Explain how to talk to someone who is feeling stressed to help them feel better.

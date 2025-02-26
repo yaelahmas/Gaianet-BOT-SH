@@ -1,7 +1,7 @@
 #!/bin/bash
 
-GAIA_API_KEY="gaia-NzQwNDcyN2EtYTlhYy00YmIwLTliMTctZmUzZmM3OTcyMDk0-ELt7ey17mRkZXr2g"  # Ganti dengan API key yang benar
-API_URL="https://english.gaia.domains/v1/chat/completions"
+GAIA_API_KEY="your_gaia_api_key"  # Ganti dengan API key yang benar
+API_URL="https://your_gaia_domains/v1/chat/completions"
 QUESTION_FILE="questions.txt"
 
 # Periksa apakah file pertanyaan ada
